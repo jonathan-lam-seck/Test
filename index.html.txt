@@ -1,3 +1,4 @@
 <html>
 <p>Bonjour</p>
+<p>Ce projet a pour but d'aider les gens qui n'ont pas de travail à cause de corona</p>
 </html>
